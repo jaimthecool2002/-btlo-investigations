@@ -22,16 +22,16 @@
   - Running Wireshark, it reveals from what IP address reveals the host name containing the dynamic domain which is being used to establish a connection back to the attacker's system
 
 - Q8) Using Timeline Explorer, look at the “Threat Logs” from the incident, how many high-risk alerts were tracked? (Format: Count)
-  - 
+  - Using timeline explorer, shifting the level column to the filter section, it shows for each level how many alerts were tracked
 
 - Q9) What are the two “Rule Titles” with the highest count under the high-risk alerts level group—in respective order? (Format: Rule Title 1, Rule Title 2)
-  - 
+  - Shifting the rule title column and putting it under the level filter, it reveals two titles with the highest count
 
 - Q10) Examine the last “Rule Title” for the high-risk alerts level group: what MITRE ID does this correspond to and what is the TgtGrp in question? (Format: TechniqueID, TgtGrp)
-  - 
+  - Corresponding the rule title with MITRE ATT&CK framework, it can be shown what technique id correlates to it and the target group is mentioned in the tool itself
 
 - Q11) Looking at the medium-risk level alerts, what is the “Rule Title” and count of the popular alert group? (Format: Rule Title, Count)
-  - 
+  - Use the filter on the medium-risk level threats and see which is the most popular alert group
 
 - Q12) What function was used for the password spray attack? Lists its MITRE ID for this type of attack as well (Format: powershell-function, TXXXX.xxx)
-  - 
+  - Under "manipulation of user computer or group security principals across AD", it is shown what function was called for the password spray attack. The mitre id is available on Google on the website
