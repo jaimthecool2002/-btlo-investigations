@@ -54,28 +54,6 @@ Each investigation follows a structured approach:
 
 ---
 
-## 🧾 Investigation Template
-
-Each lab folder contains:
-
-### `notes.md`
-- Raw observations
-- Commands used
-- Initial hypotheses
-
-### `findings.md`
-- Confirmed malicious activity
-- Indicators of Compromise (IOCs)
-- Attack techniques used
-
-### `report.md`
-- Executive summary
-- Detailed analysis
-- MITRE ATT&CK mapping
-- Remediation steps
-
----
-
 ## 🛠 Tools Used
 
 - Wireshark
