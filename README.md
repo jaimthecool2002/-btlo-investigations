@@ -80,8 +80,8 @@ Investigations align with:
 ## 🧪 Example Investigations
 
 | Lab | Focus Area | Skills Demonstrated |
-|-----|-----------|---------------------|
-| Coming Soon | — | — |
+|-----|------------|---------------------|
+| ANAKUS | REVERSE ENGINEERING | CyberChef, DetectItEasy, Regshot, SysinternalsSuite, Thunderbird, Timeline Explorer, Wireshark |
 
 *(This table will be updated as investigations are completed.)*
 
