@@ -82,6 +82,9 @@ Investigations align with:
 | Lab | Focus Area | Skills Demonstrated |
 |-----|------------|---------------------|
 | ANAKUS | REVERSE ENGINEERING | CyberChef, DetectItEasy, Regshot, SysinternalsSuite, Thunderbird, Timeline Explorer, Wireshark |
+| FOXY | THREAT INTELLIGENCE | Linux CLI, Gnumeric, Text Editor, OSINT |
+| MIDDLEMAYHEM | INCIDENT RESPONSE | Next.js, Splunk |
+| PIGGY | SECURITY OPERATIONS | Wireshark, ATT&CK, OSINT |
 
 *(This table will be updated as investigations are completed.)*
 
