@@ -94,7 +94,7 @@ Investigations align with:
 
 If you are a recruiter or fellow cybersecurity enthusiast:
 
-1. Browse the `investigations/` folder.
+1. Browse the `btlo-investigations/` folder.
 2. Open individual lab reports.
 3. Review methodology and findings.
 
